@@ -1,0 +1,67 @@
+html, body, .capa{
+    height: 100%;
+}
+body{
+    overflow-x:hidden;
+}
+.img-logo{
+    height: 50px;
+    width: 132px;
+    display: block;
+    background: url(imagens/logo-veper-final-1.png) no-repeat;
+    background-size: contain;
+}
+.capa{
+    display: table;
+    width: 100%;
+}
+.texto-capa{
+    text-align: center;
+    color: black;
+    display: table-cell;
+    vertical-align: top;
+    padding: 50px;
+    }
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-top: 1em;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;  
+}
+.tabulacao{
+    padding: 10px;
+    width: 800px;
+    
+}
+.tab{
+    padding-top: 100px;
+}
+.img-teclado{
+    
+}
+.central{
+    padding: 10px 0 10px 0;
+    width: 2500px;
+    float:left;
+}
+/* ============ Tipografia ===========*/
+h1 {
+    padding: 65px;
+    font-size: 70px;
+    line-height: 90px;
+}
+.texto-cab{
+    padding: 10px 6px;
+    font-size: 30px;
+    font-family:verdana;
+}
+.texto-corpo{
+    font-size: 25px;
+    font-family:verdana;
+    
+    
+}
