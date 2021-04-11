@@ -1,2 +1,0 @@
-# grupoveper
-aplicação monitoramento veper
